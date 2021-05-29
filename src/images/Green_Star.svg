@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.776" height="31.475" viewBox="0 0 32.776 31.475">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8cc63f"/>
+      <stop offset="1" stop-color="#39b54a"/>
+    </linearGradient>
+  </defs>
+  <g id="Green_Star" data-name="Green Star" transform="translate(-8850.874 -190.036)">
+    <path id="Path_2994" data-name="Path 2994" d="M8882.211,202.274a1,1,0,0,0-.8-.68l-9.145-1.335-4.1-8.288a1,1,0,0,0-1.795,0l-4.1,8.288-9.143,1.33a1,1,0,0,0-.555,1.71l6.624,6.453-1.565,9.114a1,1,0,0,0,1.45,1.055l8.188-4.305,8.185,4.305a1,1,0,0,0,1.449-1.055l-1.56-9.114,6.624-6.453A1,1,0,0,0,8882.211,202.274Z" stroke="#707070" stroke-miterlimit="10" stroke-width="2.737" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

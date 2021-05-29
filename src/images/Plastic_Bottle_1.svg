@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35.071" height="71.946" viewBox="0 0 35.071 71.946">
+  <defs>
+    <linearGradient id="linear-gradient" x1="19.68" y1="-23.254" x2="20.594" y2="-23.254" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8cc63f"/>
+      <stop offset="1" stop-color="#39b54a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.696" y1="-28.899" x2="21.649" y2="-28.899" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="44.332" y1="-57.781" x2="45.245" y2="-57.781" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="21.097" y1="-19.88" x2="22.055" y2="-19.88" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="20.887" y1="-29.212" x2="21.842" y2="-29.212" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Plastic_Bottle_1" data-name="Plastic Bottle_1" transform="translate(-8641.196 -86.176)">
+    <path id="Path_2956" data-name="Path 2956" d="M8669.928,138.423l-15.939,4.547a2.828,2.828,0,0,0-1.943,3.494h0l2.736,9.589a2.848,2.848,0,0,0,3.521,1.959h0l15.9-4.534a2.851,2.851,0,0,0,1.959-3.523h0l-2.735-9.589a2.826,2.826,0,0,0-3.494-1.943Z" fill="url(#linear-gradient)"/>
+    <path id="Path_2957" data-name="Path 2957" d="M8650.117,130.387a2.557,2.557,0,0,0-1.759,3.153l1.737,6.09a2.725,2.725,0,0,0,3.37,1.874l16.132-4.6a2.727,2.727,0,0,0,1.874-3.37l-1.736-6.09a2.558,2.558,0,0,0-3.16-1.758h0l-16.46,4.7Z" fill="url(#linear-gradient-2)"/>
+    <path id="Path_2958" data-name="Path 2958" d="M8643.681,94.28,8653,91.623a.255.255,0,0,0,.175-.315h0l-1.32-4.628a.693.693,0,0,0-.858-.477h0l-8.468,2.415a.7.7,0,0,0-.479.859h0l1.32,4.628a.255.255,0,0,0,.315.175Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_2959" data-name="Path 2959" d="M8646.187,116.384l16.408-4.68a2.735,2.735,0,0,0,1.7-3.322l-1.725-6.046-9.674-9.079-8.275,2.36-3.428,12.817,1.725,6.047A2.727,2.727,0,0,0,8646.187,116.384Z" fill="url(#linear-gradient-4)"/>
+    <path id="Path_2960" data-name="Path 2960" d="M8663.011,113.191l-16.46,4.7a2.564,2.564,0,0,0-1.757,3.16l1.7,5.942a2.735,2.735,0,0,0,3.37,1.874l16.133-4.6a2.734,2.734,0,0,0,1.874-3.37l-1.7-5.942A2.564,2.564,0,0,0,8663.011,113.191Z" fill="url(#linear-gradient-5)"/>
+  </g>
+</svg>

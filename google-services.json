@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590164207885",
+    "project_id": "irpiniapp-3bc1c",
+    "storage_bucket": "irpiniapp-3bc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590164207885:android:62ffdd2d4795424ed82844",
+        "android_client_info": {
+          "package_name": "com.irpiniambiente.irpiniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590164207885-4m3937t22u5leetk2456r1guqrn5eq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3Hv2o5xOnQZ_7E6ql1KLv96mM9gw_jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590164207885-4m3937t22u5leetk2456r1guqrn5eq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

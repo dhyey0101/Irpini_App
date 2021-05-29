@@ -1,0 +1,75 @@
+{
+  "expo": {
+    "name": "IrpiniApp",
+    "slug": "Waste_Management",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.7",
+    "orientation": "portrait",
+    "icon": "./assets/Tree_green.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1.0.5",
+      "infoPlist": {
+        "NSCameraUsageDescription": "richiesto il permesso per scattare foto prodotti e per foto profilo",
+        "NSLocationWhenInUseUsageDescription": "L'attivazione dei servizi di localizzazione ci consente di mostrarti dove puoi ritirare una segnalazione.",
+        "NSPhotoLibraryUsageDescription": "Richiesto il permesso per scattare foto prodotti e per foto profilo",
+        "NSPhotoLibraryAddUsageDescription": "Richiesto il permesso per scattare foto prodotti e per foto profilo",
+        "NSUserTrackingUsageDescription": "Queste informazioni verranno utilizzate per fornirti annunci personalizzati."
+      },
+      "supportsTablet": false,
+      "usesIcloudStorage": true,
+      "bundleIdentifier": "com.macsolution.irpiniapp",
+      "config": {
+        "googleMapsApiKey": "AIzaSyABWlXenYqS11Q_6GVC0JsgzIWC6w07fp0"
+      }
+    },
+    
+    "android": {
+      "versionCode": 5,
+      "package": "com.irpiniambiente.irpiniapp",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyABWlXenYqS11Q_6GVC0JsgzIWC6w07fp0"
+        },
+        "googleSignIn": {
+          "apiKey": "AIzaSyAspFFhUWK5Y5-ymReEI6lT6AMRYZ37zAI"
+        }
+      }
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.566" height="14.705" viewBox="0 0 21.566 14.705">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8cc63f"/>
+      <stop offset="1" stop-color="#39b54a"/>
+    </linearGradient>
+  </defs>
+  <g id="Eye_Green" data-name="Eye Green" transform="translate(-3127.036 -299.625)">
+    <path id="Path_3845" data-name="Path 3845" d="M3137.819,304.037a2.941,2.941,0,1,0,2.941,2.941A2.943,2.943,0,0,0,3137.819,304.037Z" fill="url(#linear-gradient)"/>
+    <path id="Path_3846" data-name="Path 3846" d="M3137.819,299.625a11.593,11.593,0,0,0-10.783,7.353,11.584,11.584,0,0,0,21.566,0A11.587,11.587,0,0,0,3137.819,299.625Zm0,12.254a4.9,4.9,0,1,1,4.9-4.9A4.9,4.9,0,0,1,3137.819,311.879Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
